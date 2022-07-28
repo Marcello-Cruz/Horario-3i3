@@ -1,1 +1,1 @@
-# Horario-3i3
+# Horario-3i3 do 3º Módulo de Técnico em Informática do segundo semestre de 2022, na Etec Adolpho Berzin. 
